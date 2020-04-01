@@ -25,3 +25,13 @@ These additional references should also help you:
 
 * [Gradle Build Scans – insights for your project's build](https://scans.gradle.com#gradle)
 
+
+
+### Application Details
+
+This application contain single endpoint with url: http://localhost:8080/v1/hello.
+
+### Some gradle good things to know
+
+* Exclude test cases while build :
+    [gradle build -x test] (excluding the test task.)
